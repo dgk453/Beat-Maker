@@ -6,4 +6,4 @@ A fun beat making program with multiple useful functions that include play/pause
 
 
 
-Credits to LeMaster Tech for insipirartion
+Credits to LeMaster Tech for inspirartion
